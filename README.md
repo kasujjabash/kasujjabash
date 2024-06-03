@@ -1,4 +1,4 @@
- <img src="https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif" align="center" alt="You are welcome" style="width: 100%; height: 75vh; ">
+<--- <img src="https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif" align="center" alt="You are welcome" style="width: 100%; height: 75vh; ">--->
 <h1 align="center">Hi 👋, I'm Bashir Kasujja</h1>
 <h3 align="center">Software engineering student, passionate about creating innovative solutions that push the boundaries of technology, continuously learning from experts and the ever-evolving field.</h3>
 
