@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bashir Kasujja</h1>
-<h3 align="center">Software engineering student, passionate about creating innovative solutions that push the boundaries of technology, continuously learning from experts and the ever-evolving field.</h3>
+<h1 >Hi 👋, I'm Bashir Kasujja</h1>
+<h4>Software engineering student, passionate about creating innovative solutions that push the boundaries of technology, continuously learning from experts and the ever-evolving field.</h4>
 
 <ima align= "right" width= "400" alt="Chilling" src ="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasujjabash" alt="kasujjabash" /></a> </p>
