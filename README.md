@@ -1,4 +1,4 @@
-<img align="right" width="400" alt="Banner image" src="https://dl.dropboxusercontent.comm/scl/fi/7t6z5bt9h4lsznfvxh6te/Bash-02.png?rlkey=owfmbrv9swgdi6xq49ew3au85&st=i1p03sn2&dl=0">
+<img align="right" width="400" alt="Banner image" src="https://dl.dropboxusercontent.com/scl/fi/7t6z5bt9h4lsznfvxh6te/Bash-02.png">
 
 <h1 >Hi 👋, I'm Bashir Kasujja</h1>
 <h4>Software engineering student, passionate about creating innovative solutions that push the boundaries of technology, continuously learning from experts and the ever-evolving field.</h4>
