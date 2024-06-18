@@ -1,3 +1,6 @@
+<img align="right" width="400" alt="Chilling" src="[https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif]https://dl.dropboxusercontent.comm/scl/fi/7t6z5bt9h4lsznfvxh6te/Bash-02.png?rlkey=owfmbrv9swgdi6xq49ew3au85&st=i1p03sn2&dl=0">
+
+
 <h1 >Hi 👋, I'm Bashir Kasujja</h1>
 <h4>Software engineering student, passionate about creating innovative solutions that push the boundaries of technology, continuously learning from experts and the ever-evolving field.</h4>
 
