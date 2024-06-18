@@ -1,5 +1,4 @@
-<img align="right" width="400" alt="Banner image" src="https://www.dropbox.com/s/fi/7t6z5bt9h4lsznfvxh6te/Bash-02.png?raw=1">
-
+<img src="https://dl.dropboxusercontent.com/scl/fi/nehhgewoziruud9ikc4gc/Impact-Nations-White-Logo.png?rlkey=h38xjoq6yselhm8vet8cro4im&st=p22k2e2d&dl=0" alt="Impact nation logo" style="display: block; margin: 10px 0; width: auto;height: 2rem;">
 <h1 >Hi 👋, I'm Bashir Kasujja</h1>
 <h4>Software engineering student, passionate about creating innovative solutions that push the boundaries of technology, continuously learning from experts and the ever-evolving field.</h4>
 
